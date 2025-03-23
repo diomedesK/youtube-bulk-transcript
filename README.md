@@ -10,6 +10,6 @@ or
 <code>python collect_transcript.py --type playlist "https://www.youtube.com/playlist?list=PLk0fS18dI3_NAd8ZCopvIvvuSrR3bq_PL" --folder ./3blue1brown-fuzzy-txt --format pretty </code>
 
 
-It's built on top of the [Youtube Transcript API](https://github.com/jdepoix/youtube-transcript-api/tree/master), which is an adequate option for downloading single video transcripts.
+It's built on top of the [Youtube Transcript API](https://github.com/jdepoix/youtube-transcript-api/tree/master), which is the right choice to download single video transcripts.
 
 
